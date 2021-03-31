@@ -170,24 +170,24 @@ function mouseReleased(){
 
 
 var ballSoundLoud = new Howl({
-  src: ['Sounds/click1.mp3'],
+  src: ['click1.mp3'],
   volume: 0.8
 });
 var ballSoundQuiet = new Howl({
-  src: ['Sounds/click1.mp3'],
+  src: ['click1.mp3'],
   volume: 0.2
 });
 
 var edgeSoundLoud = new Howl({
-  src: ['Sounds/woodimpact.mp3'],
+  src: ['woodimpact.mp3'],
   volume: 0.8
 });
 
 var edgeSoundQuiet = new Howl({
-  src: ['Sounds/woodimpact.mp3'],
+  src: ['woodimpact.mp3'],
   volume: 0.1
 });
 
 var potSound = new Howl({
-  src: ['Sounds/rock.mp3'],
+  src: ['rock.mp3'],
 });
