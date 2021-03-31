@@ -1,0 +1,5 @@
+Feature ideas:
+
+1 Ball colour depends on speed
+2 Line of sight can be toggled
+3 
